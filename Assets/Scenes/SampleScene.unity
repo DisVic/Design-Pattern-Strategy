@@ -368,7 +368,7 @@ MonoBehaviour:
   playerDetectionRadius: 10
   chaseRadius: 2
   jumpRadius: 5
-  enemy: {fileID: 1103875706}
+  npc: {fileID: 1103875706}
   player: {fileID: 2117540211}
   patrolPoints:
   - {fileID: 2136024130}
